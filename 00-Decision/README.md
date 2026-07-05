@@ -5,9 +5,11 @@
 ## 📖 描述
 
 This directory records important architectural, technical, and product decisions made during the development of Echendia OS.
+
 此目录用于记录 Echendia OS 开发过程中所有重要的架构决策、技术决策以及产品决策。
 
 Every significant decision should have its own ADR document.
+
 每一项重要决策都应拥有独立的 ADR 文档。
 
 ---
@@ -36,10 +38,17 @@ Every significant decision should have its own ADR document.
 ## 📄 命名规范
 
 Example:
-例如：
+
+```
 001-Why-PostgreSQL.md
-001-为什么选择PostgreSQL.md
 002-Why-Docker.md
-002-为什么使用Docker.md
 003-Why-Founder-OS.md
+```
+
+例如：
+
+```
+001-为什么选择PostgreSQL.md
+002-为什么使用Docker.md
 003-为什么定位Founder-OS.md
+```
