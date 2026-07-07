@@ -10,9 +10,9 @@ Status: Active
 # 🌟 Our Core Values
 # 🌟 我们的核心价值观
 
-These values define how Echendia OS is designed, developed, and evolved.
+These values define how Echendia is designed, developed, and evolved.
 
-这些价值观定义了 Echendia OS 如何设计、如何开发以及如何持续演进。
+这些价值观定义了 Echendia 如何设计、如何开发以及如何持续演进。
 
 Every future feature, AI Agent, workflow, and product decision should follow these principles.
 
@@ -108,6 +108,6 @@ People should not adapt to technology.
 
 而不是让人去适应技术。
 
-This belief will guide Echendia OS for years to come.
+This belief will guide Echendia for years to come.
 
-这一信念将长期指导 Echendia OS 的发展。
+这一信念将长期指导 Echendia 的发展。

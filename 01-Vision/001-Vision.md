@@ -40,9 +40,9 @@ Today’s AI often forgets users after each conversation.
 
 今天的大多数 AI，往往会在一次对话结束后忘记用户。
 
-Echendia OS believes human life is continuous, so AI should be continuous too.
+Echendia believes human life is continuous, so AI should be continuous too.
 
-Echendia OS 相信，人的人生是连续的，所以 AI 也应该是连续的。
+Echendia 相信，人的人生是连续的，所以 AI 也应该是连续的。
 
 The more AI knows about a founder’s work, life, habits, health, goals, and business, the more valuable it becomes.
 
