@@ -36,25 +36,20 @@ The setup should support:
 该环境应支持：
 
 - Claude Code
-- Claude Code
 
-- Codex
 - Codex
 
 - Hermes
-- Hermes
 
-- GitHub
 - GitHub
 
 - Vercel
-- Vercel
 
-- Docker
 - Docker
 
 - PostgreSQL
-- PostgreSQL
+
+  
 
 ---
 
