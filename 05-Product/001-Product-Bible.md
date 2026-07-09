@@ -78,6 +78,105 @@ The long-term outcome is:
 
 ---
 
+## Life Progress
+## 人生进展
+
+Founders should not only see their daily state.
+
+Founder 不应该每天只看到自己的状态。
+
+They should see whether they are making continuous progress.
+
+他们更应该看到自己是否正在持续成长。
+
+Life Progress is the top-level Outcome Layer of Echendia OS.
+
+Life Progress 是 Echendia OS 最顶层的 Outcome Layer。
+
+It does not manage tasks.
+
+它不管理任务。
+
+It answers one question:
+
+它回答一个问题：
+
+> Is my life moving in a better direction?
+> 我的人生是否正在朝着更好的方向发展？
+
+Life Progress includes:
+
+Life Progress 包括：
+
+- Company Progress
+- 公司进展
+
+- Health Progress
+- 健康进展
+
+- Wealth Progress
+- 财富进展
+
+- Mind Progress
+- 大脑与认知进展
+
+- Life Progress
+- 人生进展
+
+Life Progress emphasizes long-term trend instead of one-day status.
+
+Life Progress 强调长期趋势，而不是某一天的状态。
+
+---
+
+## Outcome Layer
+## Outcome 层
+
+Echendia OS does not only help founders complete tasks.
+
+Echendia OS 不只是帮助 Founder 完成任务。
+
+More importantly, it helps founders continuously improve their life.
+
+更重要的是，它帮助 Founder 持续改善人生。
+
+All workspaces ultimately serve the outcome.
+
+所有 Workspace 最终都服务于 Outcome。
+
+Current outcomes include:
+
+当前 Outcome 包括：
+
+- Better Company
+- 更好的公司
+
+- Better Health
+- 更健康的身体
+
+- Better Wealth
+- 更持续增长的财富
+
+- Clearer Mind
+- 更清晰的大脑
+
+- Better Life
+- 更美好的人生
+
+Mission, Execution, Momentum, Intelligence, Health, Finance, and Memory & Decisions are processes.
+
+Mission、Execution、Momentum、Intelligence、Health、Finance、Memory & Decisions 都属于过程。
+
+Outcome is the final goal.
+
+Outcome 才是最终目标。
+
+In the future, the homepage should show Outcome first through Life Progress, then enter Founder Core.
+
+未来首页应首先通过 Life Progress 展示 Outcome，然后才进入 Founder Core。
+
+---
+
 ## Product Philosophy
 ## 产品哲学
 
@@ -166,3 +265,12 @@ Every new feature should clearly state which capability it supports.
 
 - Optimize for long-term trust instead of short-term engagement.
 - 优化长期信任，而不是短期互动。
+
+- Echendia OS should always help founders make visible progress.
+- Echendia OS 应始终帮助 Founder 看见自己的成长。
+
+- If users cannot clearly feel that their company, health, wealth, clarity, and life are improving, Echendia has failed its purpose.
+- 如果用户无法清晰感受到自己的公司、健康、财富、大脑状态以及人生正在持续向好的方向发展，那么 Echendia 就没有完成它存在的意义。
+
+- Every feature should contribute to visible long-term progress.
+- 每一个功能都应帮助用户产生可感知、可持续的长期成长。
