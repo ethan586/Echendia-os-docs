@@ -108,6 +108,9 @@ The following knowledge should be documented in this repository:
 - 10-Roadmap: yearly roadmap and long-term direction.
 - 10-Roadmap：年度路线图与长期方向。
 
+- 11-Toolbox: official AI tools and developer tools knowledge base.
+- 11-Toolbox：官方 AI 工具与开发工具知识库。
+
 - 99-Archive: archived and recovered materials.
 - 99-Archive：归档与恢复材料。
 
