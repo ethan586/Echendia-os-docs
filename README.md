@@ -1,3 +1,30 @@
+# Echendia OS — Archived
+
+This repository contains the original product documentation and historical thinking for Echendia OS.
+
+The product has evolved and has been renamed to Ketlyst.
+
+Echendia remains the company and brand name.
+Ketlyst is Echendia's first product.
+
+This repository is preserved as a public historical archive and is no longer actively maintained.
+
+Current Ketlyst development continues in a separate private repository.
+
+# Echendia OS — 已归档
+
+本仓库保存 Echendia OS 早期产品文档、产品理念及其演进历史。
+
+该产品现已正式更名为 Ketlyst。
+
+Echendia 继续作为公司与品牌名称。
+Ketlyst 是 Echendia 的第一款产品。
+
+本仓库作为公开历史档案永久保留，不再继续维护。
+Ketlyst 的后续开发将在独立的私有仓库中进行。
+
+---
+
 # Echendia OS Documentation
 # Echendia OS 文档体系
 
